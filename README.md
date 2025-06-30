@@ -1,8 +1,9 @@
-# SignSpeak - ASL Recognition Application
+## SignSpeak - ASL Recognition Application
 
 SignSpeak is a desktop application that uses computer vision and deep learning to recognize American Sign Language (ASL) letters and convert them to text in real-time.
 
 ## Features Listed Below:
+
 
 - Real-time ASL letter recognition from webcam input
 - Preprocessing of hand gestures for better recognition
